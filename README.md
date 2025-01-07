@@ -24,3 +24,34 @@ This project showcases a collection of MySQL queries to analyze Airbnb data, foc
    ```bash
    git clone https://github.com/yourusername/Airbnb-SQL-Analysis.git
    cd Airbnb-SQL-Analysis
+
+2. **Import Datasets into MySQL**:  
+   - Load the `listings.csv`, `calendar.csv`, and `reviews.csv` files into respective MySQL tables.  
+   - Use the MySQL import feature or tools like MySQL Workbench. Ensure the table names and column names match the query scripts provided in the repository.  
+
+3. **Run SQL Queries**:  
+   - Navigate to the `queries/` folder for predefined SQL scripts.  
+   - Execute queries to analyze the data and uncover insights.  
+   - Modify or extend queries to suit your specific analytical needs.  
+
+---
+
+## **Repository Structure**  
+
+Airbnb-SQL-Analysis/
+├── README.md                 # Project overview and instructions
+├── datasets/                 # Raw datasets (listings, calendar, reviews)
+├── queries/                  # SQL scripts for different analyses
+│   ├── listings_analysis.sql
+│   ├── calendar_analysis.sql
+│   ├── reviews_analysis.sql
+│   ├── combined_analysis.sql
+└── LICENSE                   # Licensing information
+
+---
+
+## **Key Insights**  
+- Neighborhoods with the highest average listing prices.  
+- Room types with the most availability throughout the year.  
+- Listings with the best guest reviews and feedback.  
+- Seasonal availability patterns for popular properties.  
