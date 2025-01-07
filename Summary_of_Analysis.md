@@ -49,5 +49,3 @@
 ### Reviews
 - Listings with more reviews tend to have higher customer satisfaction or popularity.
 - Reviews provide qualitative feedback, highlighting strengths and weaknesses of listings.
-
----
