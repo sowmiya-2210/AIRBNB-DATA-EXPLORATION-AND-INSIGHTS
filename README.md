@@ -36,20 +36,6 @@ This project showcases a collection of MySQL queries to analyze Airbnb data, foc
 
 ---
 
-## **Repository Structure**  
-
-Airbnb-SQL-Analysis/
-├── README.md                 # Project overview and instructions
-├── datasets/                 # Raw datasets (listings, calendar, reviews)
-├── queries/                  # SQL scripts for different analyses
-│   ├── listings_analysis.sql
-│   ├── calendar_analysis.sql
-│   ├── reviews_analysis.sql
-│   ├── combined_analysis.sql
-└── LICENSE                   # Licensing information
-
----
-
 ## **Key Insights**  
 - Neighborhoods with the highest average listing prices.  
 - Room types with the most availability throughout the year.  
